@@ -1,5 +1,6 @@
+jianglaiya is translating.
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (jianglaiya)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
@@ -7,67 +8,67 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/developer-advocacy-roundtable)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 2: Bonus_Developer Advocacy Roundtable
+Command Line Heroes: Season 2: 奖金--开发者倡导圆桌会议
 ======
 **00:06** - _Saron Yitbarek_
 
-Hi everybody, I'm Saron Yitbarek and this is a special bonus episode of Command Line Heroes, an original podcast from Red Hat. This podcast went a lot of places in Season 2. We explored programming languages, data overload, security crises, the advent of serverless. I mean, we even went to Mars.
+大家好，我是Saron Yitbarek,这是代码英雄的特别花絮，这里是Red Hat原创的播客。这个播客在（代码英雄）第二季里面占据了很多位置。我们探讨了编程语言，数据过载，安全危机和无服务器时代的到来。我的意思是，我们甚至去过火星。
 
 **00:28** - _Saron Yitbarek_
 
-But after closing out Season 2, there was still one more place we wanted to go. We wanted to go inside the minds of the advocates and thought leaders who help shape all the work that developers do. Sometimes they're called developer advocates or they're in developer relations or they're developer evangelists.
+但是在（代码英雄）第二季结束之后，我们还有一个地方要去。我们想深入研究倡导者和心灵指导者的想法，他们帮助塑造开发人员的所有工作。有时候他们被叫做开发人员拥护者，或处于开发人员的关系中或是开发人员的传播者。
 
 **00:50** -_Saron Yitbarek_
 
-Whatever their exact titles, from the developer's perspective, they seem to do a lot of the same things. You've seen them give keynotes at conferences. You've heard them getting interviewed on podcasts, like this one. You've probably read their blog posts. But who are they, and what exactly are they using their voices to get done?
+从开发人员的角度来看，无论使用什么确切的标题，他们仍看起来是在做许多相似的事情。您已经看过他们像这个一样在会议上发表主题演讲，您已经可能阅读过他们的博客文章。但是，他们是谁？他们用自己的声音来完成任务到底是为了什么？
 
 **01:10** - _Saron Yitbarek_
 
-To ring in 2019, we've pulled together a roundtable of amazing people for you. While their titles are all different, their purpose is the same. They're here to help developers and make sure their needs and voices are heard. These folks are classic command line heroes.
+为了开启2019年，我们为您召开了由一些令人称奇的任务组成的圆桌会议。虽然他们的标题不同，但是目的是一样的。他们来此是为了帮助开发人员并且确保听到他们的需求与声音。这些人是经典的代码英雄。
 
 **01:29** - _Saron Yitbarek_
 
-From the Bay Area, Sandra Persing is a Mozilla Global Strategist and creator of the DevRel Summit.
+Sandra Persing来自海湾地区，是一位Mozilla的全球策划师，同时也是DevRel峰会的创建者。
 
 **01:38** - _Sandra Persing_
 
-Hi, Saron.
+你好, Saron.
 
 **01:39** - _Saron Yitbarek_
 
-Hello. And also in San Francisco we have Ricky Robinett. He's the Director of the Developer Network over at Twilio.
+你好，在圣弗朗西斯科（旧金山）也有Ricky Robinett，他是Twilio的开发者网络总监。
 
 **01:47** - _Ricky Robinett_
 
-What's up?
+这是怎么回事？
 
 **01:49** - _Saron Yitbarek_
 
-Joining me from just outside of Phoenix is Robyn Bergeron, a community architect at Red Hat.
+Robyn Bergeron从Phoenix（美国亚利桑那州州府-菲尼克斯）外部加入了我们，他是一个Red Hat（红帽）的社区架构师。
 
 **01:55** - _Robyn Bergeron_
 
-Hi there. How are you?
+嗨，您好啊。你怎么样啊？
 
 **01:56** - _Saron Yitbarek_
 
-I'm doing great.
+我很好。
 
 **01:57** - _Robyn Bergeron_
 
-Excellent.
+嗯，好的。
 
 **01:57** - _Saron Yitbarek_
 
-So there are a lot of titles floating around. There's Developer Advocate, Developer Evangelist, Developer Relations, and with all these new things, basic definitions are super important. So, I think a good place to start is just to define what these things are and specifically, what you all do in this space. So, can you tell me your job title and what that title actually means? Ricky, let's start with you.
+因此，有很多标题在浮动。开发人员拥护者，开发人员布道者，开发人员关系，以及所有这些新事物，基本的定义是非常重要的。所以，我认为一个好的开始只是定义这些东西是什么，尤其是你的所有工作。那么，您能告诉我您的职位和这个职位的实际含义吗?Ricky,让我们从你开始吧。
 
 **02:22** - _Ricky Robinett_
 
-Okay, sounds good. My title is the Director of the Developer Network. What I have the privilege of doing is serving a team of developer relations professionals. We have an evangelism team, we have a education team and we have a community team. So, it's definitely a mishmash of all the different titles of you hear, we kind of collect them on the team.
+好的，这个主意我很赞同。我的职位是开发者网络的总监。我很荣幸能为一个专门负责开发人员关系的团队提供服务。我们有一个布道团队、一个教育团队和一个社区团队。因此，这绝对是您未听过的不同职位的混搭，我们将其包括一个团队中。
 
 **02:43** - _Saron Yitbarek_
 
-Awesome. And Sandra, what about you?
+棒极了，Sandra，你呢。
 
 **02:45** - _Sandra Persing_
 
